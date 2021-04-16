@@ -11,6 +11,8 @@ black = "*"
 [packages]
 youtube-dl = "*"
 flask = "*"
+flask-cors = "*"
+python-magic = "*"
 
 [requires]
 python_version = "3.8"
